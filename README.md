@@ -1,24 +1,40 @@
-# README
+# Micro-Reddit Rails Web-App - Models & Migrations
+> This project puts our knowledge of active record, models, and associations to the tests. We build an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Full task description [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Rails
+- VSCode
+- Terminal
+- Rubocop
 
-* System dependencies
+## Getting Started
+**The project was designed to test capalities of using Active record in Ruby on Rails**
 
-* Configuration
+- **Terminal(Mac & Linux) or Command Prompt(Windows)**: This is where you will run all commands
+- **Clone**: clone this repository to your local machine
+- **Ruby Enviroment**: if you do not have ruby installed visit this [link](https://www.ruby-lang.org/en/documentation/installation/) to install
+- **Rails**: install rails gem by running command *$ gem install rails* -v 5.2.1
+- **bundle**: run $ bundle install , this is to install gems declared in the Gemfile
+- **Database Migration**: run *$ rake db:migrate* in console to run database migrations on your local machine
+- Open the rails console with *$ rails console* command and begin executions
 
-* Database creation
+## Authors ![Hireable](https://img.shields.io/badge/HIREABLE-YES-yellowgreen&?style=for-the-badge)
 
-* Database initialization
+👤 **Elbie Moonga**
 
-* How to run the test suite
+- GitHub: [@Elbie-Em](https://github.com/Elbie-em)
+- Twitter: [ElbieEm](https://twitter.com/ElbieEm)
+- LinkedIn: [elbie-moonga](https://www.linkedin.com/in/elbie-moonga-253bbb12b/)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Jose Fernandez Caminero**
+- Github: [@fdezcaminero](https://github.com/fdezcaminero)
+- Twitter: [@fdezcaminero](https://twitter.com/fdezcaminero)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/fdezcaminero/)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues are welcome!
